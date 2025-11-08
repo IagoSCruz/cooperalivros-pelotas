@@ -1,0 +1,632 @@
+title|author|isbn|publisher|publication_year|category|quantity
+1984|George Orwell|9788535932775|Companhia das Letras|2009|Ficção Distópica|5
+A Revolução dos Bichos|George Orwell|9788579620126|Companhia das Letras|2007|Fábula Política|3
+Dom Casmurro|Machado de Assis|9788535930498|Penguin-Companhia|2016|Romance|4
+O Cortiço|Aluísio Azevedo|9788544001004|Martin Claret|2016|Romance Naturalista|2
+Memórias Póstumas de Brás Cubas|Machado de Assis|9788520925997|Scipione|2014|Romance|3
+Grande Sertão: Veredas|Guimarães Rosa|9788525406286|Companhia das Letras|2019|Romance Regionalista|2
+Cem Anos de Solidão|Gabriel García Márquez|9788535931693|Record|2017|Realismo Mágico|4
+O Alquimista|Paulo Coelho|9788501061867|Objetiva|2014|Ficção|6
+A Menina que Roubava Livros|Markus Zusak|9788580573756|Intrínseca|2007|Ficção Histórica|3
+O Pequeno Príncipe|Antoine de Saint-Exupéry|9788532530790|Agir|2015|Fábula|8
+Harry Potter e a Pedra Filosal|J.K. Rowling|9788595084841|Rocco|2017|Fantasia|10
+Harry Potter e a Câmara Secreta|J.K. Rowling|9788595085114|Rocco|2017|Fantasia|8
+Harry Potter e o Prisioneiro de Azkaban|J.K. Rowling|9788595085787|Rocco|2017|Fantasia|7
+Harry Potter e o Cálice de Fogo|J.K. Rowling|9788595086357|Rocco|2017|Fantasia|6
+Harry Potter e a Ordem da Fênix|J.K. Rowling|9788595086944|Rocco|2017|Fantasia|5
+Harry Potter e o Enigma do Príncipe|J.K. Rowling|9788595087453|Rocco|2017|Fantasia|5
+Harry Potter e as Relíquias da Morte|J.K. Rowling|9788595088047|Rocco|2017|Fantasia|6
+O Hobbit|J.R.R. Tolkien|9788544001677|HarperCollins Brasil|2019|Fantasia|4
+O Senhor dos Anéis: A Sociedade do Anel|J.R.R. Tolkien|9788595086616|HarperCollins Brasil|2019|Fantasia|5
+O Senhor dos Anéis: As Duas Torres|J.R.R. Tolkien|9788595086623|HarperCollins Brasil|2019|Fantasia|4
+O Senhor dos Anéis: O Retorno do Rei|J.R.R. Tolkien|9788595086630|HarperCollins Brasil|2019|Fantasia|4
+A Guerra dos Tronos|George R.R. Martin|9788535929638|LeYa|2019|Fantasia Épica|3
+A Fúria dos Reis|George R.R. Martin|9788535932423|LeYa|2019|Fantasia Épica|3
+A Tormenta de Espadas|George R.R. Martin|9788535932430|LeYa|2019|Fantasia Épica|2
+O Festim dos Corvos|George R.R. Martin|9788535932447|LeYa|2019|Fantasia Épica|2
+A Dança dos Dragões|George R.R. Martin|9788535932454|LeYa|2019|Fantasia Épica|2
+A Culpa é das Estrelas|John Green|9788580416695|Intrínseca|2012|Romance Juvenil|5
+Cidades de Papel|John Green|9788580575194|Intrínseca|2013|Romance Juvenil|4
+Quem é Você, Alasca?|John Green|9788580577037|Intrínseca|2013|Romance Juvenil|3
+O Código Da Vinci|Dan Brown|9788535926590|Arqueiro|2017|Suspense|4
+Anjos e Demônios|Dan Brown|9788580410426|Arqueiro|2013|Suspense|3
+Inferno|Dan Brown|9788580411676|Arqueiro|2013|Suspense|3
+Origem|Dan Brown|9788580414950|Arqueiro|2017|Suspense|4
+O Caçador de Pipas|Khaled Hosseini|9788535928273|Globo Livros|2017|Drama|3
+A Cabana|William P. Young|9788525059901|Sextante|2008|Ficção Espiritual|2
+Jogos Vorazes|Suzanne Collins|9788580576252|Rocco|2010|Ficção Científica Distópica|5
+Em Chamas|Suzanne Collins|9788580576269|Rocco|2011|Ficção Científica Distópica|4
+A Esperança|Suzanne Collins|9788580576276|Rocco|2011|Ficção Científica Distópica|4
+Divergente|Veronica Roth|9788580573220|Rocco|2012|Ficção Científica Distópica|3
+Insurgente|Veronica Roth|9788580573923|Rocco|2012|Ficção Científica Distópica|3
+Convergente|Veronica Roth|9788580574517|Rocco|2013|Ficção Científica Distópica|3
+O Diário de Anne Frank|Anne Frank|9788599296370|Record|2014|Biografia|4
+Sapiens: Uma Breve História da Humanidade|Yuval Noah Harari|9788535911664|L&PM|2015|Não-ficção|6
+Homo Deus: Uma Breve História do Amanhã|Yuval Noah Harari|9788535928488|Companhia das Letras|2016|Não-ficção|5
+21 Lições Para o Século 21|Yuval Noah Harari|9788535932508|Companhia das Letras|2018|Não-ficção|5
+O Poder do Hábito|Charles Duhigg|9788543105277|Objetiva|2012|Autoajuda|3
+Rápido e Devagar: Duas Formas de Pensar|Daniel Kahneman|9788543105901|Objetiva|2012|Psicologia|3
+A Arte da Guerra|Sun Tzu|9788535927245|L&PM|2017|Estratégia|5
+O Monge e o Executivo|James C. Hunter|9788595201163|Sextante|2004|Gestão|4
+Pai Rico, Pai Pobre|Robert Kiyosaki|9788575428344|Alta Books|2017|Finanças|6
+Como Fazer Amigos e Influenciar Pessoas|Dale Carnegie|9788595081529|Companhia Editora Nacional|2012|Autoajuda|4
+Os 7 Hábitos das Pessoas Altamente Eficazes|Stephen R. Covey|9788595200869|BestSeller|2017|Autoajuda|5
+A Sutil Arte de Ligar o F*da-se|Mark Manson|9788542209471|Intrínseca|2017|Autoajuda|7
+12 Regras Para a Vida|Jordan B. Peterson|9788568014141|Alta Books|2018|Autoajuda|4
+Mindset: A Nova Psicologia do Sucesso|Carol S. Dweck|9788595200715|Objetiva|2017|Psicologia|3
+O Cérebro com Foco e Disciplina|Daniel Goleman|9788535931334|Objetiva|2014|Psicologia|2
+Inteligência Emocional|Daniel Goleman|9788535910629|Objetiva|2012|Psicologia|5
+A Garota no Trem|Paula Hawkins|9788580416077|Record|2015|Suspense|3
+Garota Exemplar|Gillian Flynn|9788580448870|Intrínseca|2014|Suspense|4
+O Silêncio dos Inocentes|Thomas Harris|9788535928662|Record|2017|Suspense|2
+A Paciente Silenciosa|Alex Michaelides|9788542213492|Record|2019|Suspense|5
+It: A Coisa|Stephen King|9788501114389|Suma|2014|Terror|3
+O Iluminado|Stephen King|9788560280809|Suma|2012|Terror|4
+Doutor Sono|Stephen King|9788556510686|Suma|2013|Terror|3
+Outsider|Stephen King|9788581052458|Suma|2018|Terror|3
+O Instituto|Stephen King|9788581052991|Suma|2019|Terror|4
+A Dança da Morte|Stephen King|9788556510365|Suma|2012|Terror|2
+Cemitério Maldito|Stephen King|9788556510792|Suma|2013|Terror|3
+Drácula|Bram Stoker|9788535930221|Zahar|2014|Terror Gótico|3
+Frankenstein|Mary Shelley|9788544001738|Penguin-Companhia|2015|Terror Gótico|3
+O Médico e o Monstro|Robert Louis Stevenson|9788535931532|Penguin-Companhia|2015|Terror Gótico|2
+O Retrato de Dorian Gray|Oscar Wilde|9788535909734|L&PM|2012|Ficção Gótica|3
+Orgulho e Preconceito|Jane Austen|9788535926446|Martin Claret|2017|Romance|5
+Emma|Jane Austen|9788535928099|Martin Claret|2014|Romance|3
+Razão e Sensibilidade|Jane Austen|9788535928105|Martin Claret|2014|Romance|3
+Persuasão|Jane Austen|9788535930030|Martin Claret|2012|Romance|2
+Jane Eyre|Charlotte Brontë|9788544001912|Penguin-Companhia|2015|Romance|4
+O Morro dos Ventos Uivantes|Emily Brontë|9788535928839|Penguin-Companhia|2016|Romance|3
+Crime e Castigo|Fiódor Dostoiévski|9788535929584|Editora 34|2017|Romance Psicológico|3
+Os Irmãos Karamázov|Fiódor Dostoiévski|9788535930795|Editora 34|2012|Romance Psicológico|2
+O Idiota|Fiódor Dostoiévski|9788535929997|Editora 34|2015|Romance Psicológico|2
+Anna Kariênina|Liev Tolstói|9788535931969|Editora 34|2017|Romance|3
+Guerra e Paz|Liev Tolstói|9788535928952|Cosac Naify|2015|Romance Histórico|2
+A Morte de Ivan Ilitch|Liev Tolstói|9788535930276|Editora 34|2012|Romance|2
+Madame Bovary|Gustave Flaubert|9788535929119|Penguin-Companhia|2014|Romance|3
+Os Miseráveis|Victor Hugo|9788535928464|Martin Claret|2017|Romance Histórico|3
+O Conde de Monte Cristo|Alexandre Dumas|9788535930344|Zahar|2012|Romance de Aventura|3
+Os Três Mosqueteiros|Alexandre Dumas|9788535928280|Zahar|2015|Romance de Aventura|4
+A Metamorfose|Franz Kafka|9788535931280|Companhia das Letras|2016|Ficção|4
+O Processo|Franz Kafka|9788535930801|Companhia das Letras|2015|Ficção|3
+O Castelo|Franz Kafka|9788535931402|Companhia das Letras|2016|Ficção|2
+Cem Poemas: O Melhor da Poesia Brasileira|Vários Autores|9788535928631|Companhia das Letras|2017|Poesia|3
+Antologia Poética|Vinicius de Moraes|9788535927436|Companhia das Letras|2015|Poesia|4
+Sentimento do Mundo|Carlos Drummond de Andrade|9788535931099|Companhia das Letras|2012|Poesia|2
+Claro Enigma|Carlos Drummond de Andrade|9788535926583|Companhia das Letras|2014|Poesia|2
+A Rosa do Povo|Carlos Drummond de Andrade|9788535930672|Companhia das Letras|2012|Poesia|2
+Libertinagem|Manuel Bandeira|9788535928297|Global Editora|2013|Poesia|2
+Estrela da Vida Inteira|Manuel Bandeira|9788535929300|Global Editora|2015|Poesia|3
+Toda Poesia|Paulo Leminski|9788535928754|Companhia das Letras|2013|Poesia|3
+Melhores Poemas|Cecília Meireles|9788535929713|Global Editora|2016|Poesia|2
+Romanceiro da Inconfidência|Cecília Meireles|9788535930054|Global Editora|2012|Poesia|2
+Gabriela, Cravo e Canela|Jorge Amado|9788535928549|Companhia das Letras|2014|Romance|3
+Capitães da Areia|Jorge Amado|9788535929027|Companhia das Letras|2014|Romance|4
+Dona Flor e Seus Dois Maridos|Jorge Amado|9788535929560|Companhia das Letras|2015|Romance|3
+Tieta do Agreste|Jorge Amado|9788535930511|Companhia das Letras|2012|Romance|2
+Terras do Sem-Fim|Jorge Amado|9788535931815|Companhia das Letras|2017|Romance|2
+São Bernardo|Graciliano Ramos|9788535928020|Record|2013|Romance|3
+Vidas Secas|Graciliano Ramos|9788535929249|Record|2015|Romance|4
+Angústia|Graciliano Ramos|9788535930368|Record|2012|Romance|2
+A Hora da Estrela|Clarice Lispector|9788535928907|Rocco|2014|Romance|4
+A Paixão Segundo G.H.|Clarice Lispector|9788535930825|Rocco|2012|Romance|3
+Laços de Família|Clarice Lispector|9788535929478|Rocco|2016|Contos|3
+Perto do Coração Selvagem|Clarice Lispector|9788535928686|Rocco|2014|Romance|3
+A Hora e a Vez de Augusto Matraga|Guimarães Rosa|9788535931211|Nova Fronteira|2015|Contos|2
+Sagarana|Guimarães Rosa|9788535929935|Nova Fronteira|2016|Contos|3
+Corpo de Baile|Guimarães Rosa|9788535930917|Nova Fronteira|2012|Contos|2
+O Auto da Compadecida|Ariano Suassuna|9788535929652|Nova Fronteira|2015|Teatro|4
+A Pedra do Reino|Ariano Suassuna|9788535930627|Nova Fronteira|2012|Romance|2
+Quincas Borba|Machado de Assis|9788535928433|Penguin-Companhia|2014|Romance|3
+Esaú e Jacó|Machado de Assis|9788535931846|Penguin-Companhia|2017|Romance|2
+Memorial de Aires|Machado de Assis|9788535929904|Penguin-Companhia|2016|Romance|2
+A Moreninha|Joaquim Manuel de Macedo|9788535928358|Ática|2013|Romance|3
+Iracema|José de Alencar|9788535929690|Martin Claret|2015|Romance|3
+O Guarani|José de Alencar|9788535930474|Martin Claret|2012|Romance|2
+Senhora|José de Alencar|9788535928891|Martin Claret|2014|Romance|3
+Lucíola|José de Alencar|9788535931754|Martin Claret|2017|Romance|2
+Memórias de um Sargento de Milícias|Manuel Antônio de Almeida|9788535929386|Penguin-Companhia|2015|Romance|3
+A Cidade e as Serras|Eça de Queirós|9788535931624|Penguin-Companhia|2016|Romance|2
+Os Maias|Eça de Queirós|9788535930184|Penguin-Companhia|2012|Romance|3
+O Primo Basílio|Eça de Queirós|9788535929171|Penguin-Companhia|2014|Romance|3
+O Crime do Padre Amaro|Eça de Queirós|9788535931389|Penguin-Companhia|2015|Romance|3
+A Relíquia|Eça de Queirós|9788535928976|Penguin-Companhia|2014|Romance|2
+Quem me Dera Ser Onda|Manuel Rui|9788535930740|Record|2012|Romance|2
+Mayombe|Pepetela|9788535929829|LeYa|2016|Romance|2
+O Vendedor de Passados|José Eduardo Agualusa|9788535931570|Foz|2016|Romance|3
+Mãe, Matei o Presidente|Fabiana Gugli|9788535928518|Record|2014|Romance|2
+O Filho Eterno|Cristovão Tezza|9788535930993|Record|2012|Romance|2
+Ensaio Sobre a Cegueira|José Saramago|9788535929416|Companhia das Letras|2015|Romance|4
+Memorial do Convento|José Saramago|9788535930917|Companhia das Letras|2012|Romance Histórico|3
+A Caverna|José Saramago|9788535931051|Companhia das Letras|2013|Romance|3
+Levantado do Chão|José Saramago|9788535928723|Companhia das Letras|2014|Romance|2
+O Evangelho Segundo Jesus Cristo|José Saramago|9788535930139|Companhia das Letras|2012|Romance|3
+Caim|José Saramago|9788535931174|Companhia das Letras|2013|Romance|3
+A Jangada de Pedra|José Saramago|9788535929904|Companhia das Letras|2016|Romance|2
+Todos os Nomes|José Saramago|9788535928297|Companhia das Letras|2014|Romance|2
+O Homem Duplicado|José Saramago|9788535930886|Companhia das Letras|2012|Romance|2
+As Intermitências da Morte|José Saramago|9788535931723|Companhia das Letras|2017|Romance|3
+História do Cerco de Lisboa|José Saramago|9788535928600|Companhia das Letras|2014|Romance Histórico|2
+Manual de Pintura e Caligrafia|José Saramago|9788535929867|Companhia das Letras|2016|Romance|2
+O Ano da Morte de Ricardo Reis|José Saramago|9788535930238|Companhia das Letras|2012|Romance|2
+A Viagem do Elefante|José Saramago|9788535931266|Companhia das Letras|2015|Romance|3
+Ensaio Sobre a Lucidez|José Saramago|9788535928969|Companhia das Letras|2014|Romance|2
+Don Quixote de la Mancha|Miguel de Cervantes|9788535930061|Penguin-Companhia|2012|Romance|3
+Cem Sonetos de Amor|Pablo Neruda|9788535931877|L&PM|2017|Poesia|2
+Vinte Poemas de Amor e Uma Canção Desesperada|Pablo Neruda|9788535928372|L&PM|2013|Poesia|4
+Canto Geral|Pablo Neruda|9788535930962|Bertrand Brasil|2012|Poesia|2
+Odas Elementares|Pablo Neruda|9788535929621|L&PM|2015|Poesia|2
+O Amor nos Tempos do Cólera|Gabriel García Márquez|9788535931112|Record|2013|Romance|4
+Crônica de uma Morte Anunciada|Gabriel García Márquez|9788535929195|Record|2014|Romance|3
+Ninguém Escreve ao Coronel|Gabriel García Márquez|9788535930702|Record|2012|Romance|3
+O Outono do Patriarca|Gabriel García Márquez|9788535931938|Record|2017|Romance|2
+Memórias de Minhas Putas Tristes|Gabriel García Márquez|9788535928815|Record|2014|Romance|3
+Relato de um Náufrago|Gabriel García Márquez|9788535930429|Record|2012|Não-ficção|2
+A Incrível e Triste História da Cândida Eréndira|Gabriel García Márquez|9788535929058|Record|2014|Contos|2
+Doze Contos Peregrinos|Gabriel García Márquez|9788535931730|Record|2017|Contos|2
+Dos Amores Cachorro|Alejandro Dolina|9788535928426|Record|2013|Contos|2
+Rayuela: O Jogo da Amarelinha|Julio Cortázar|9788535931327|Civilização Brasileira|2015|Romance|2
+Bestiário|Julio Cortázar|9788535929881|José Olympio|2016|Contos|2
+Final do Jogo|Julio Cortázar|9788535930467|José Olympio|2012|Contos|2
+O Túnel|Ernesto Sabato|9788535928341|Companhia das Letras|2013|Romance|2
+Sobre Heróis e Tumbas|Ernesto Sabato|9788535931600|Companhia das Letras|2016|Romance|2
+Ficciones|Jorge Luis Borges|9788535930986|Companhia das Letras|2012|Contos|3
+O Aleph|Jorge Luis Borges|9788535929706|Companhia das Letras|2015|Contos|3
+O Livro de Areia|Jorge Luis Borges|9788535928204|Companhia das Letras|2013|Contos|2
+História Universal da Infâmia|Jorge Luis Borges|9788535931259|Companhia das Letras|2015|Contos|2
+Pedro Páramo|Juan Rulfo|9788535930139|Record|2012|Romance|2
+A Casa dos Espíritos|Isabel Allende|9788535929775|Bertrand Brasil|2016|Realismo Mágico|3
+De Amor e de Sombra|Isabel Allende|9788535928662|Bertrand Brasil|2014|Romance|2
+Eva Luna|Isabel Allende|9788535931365|Bertrand Brasil|2015|Romance|3
+Paula|Isabel Allende|9788535930337|Bertrand Brasil|2012|Biografia|2
+A Festa do Bode|Mario Vargas Llosa|9788535929508|Alfaguara|2015|Romance Histórico|2
+Conversa na Catedral|Mario Vargas Llosa|9788535931433|Alfaguara|2016|Romance|2
+A Cidade e os Cachorros|Mario Vargas Llosa|9788535928891|Alfaguara|2014|Romance|2
+Tia Julia e o Escrevinhador|Mario Vargas Llosa|9788535930719|Alfaguara|2012|Romance|2
+Travessuras da Menina Má|Mario Vargas Llosa|9788535929331|Alfaguara|2015|Romance|2
+O Sonho do Celga|Mario Vargas Llosa|9788535931969|Alfaguara|2017|Romance Histórico|2
+A Guerra do Fim do Mundo|Mario Vargas Llosa|9788535928129|Alfaguara|2013|Romance Histórico|2
+Pantaleão e as Visitadoras|Mario Vargas Llosa|9788535930535|Alfaguara|2012|Romance|2
+A Casa Verde|Mario Vargas Llosa|9788535931501|Alfaguara|2016|Romance|2
+Édipo Rei|Sófocles|9788535928471|L&PM|2014|Teatro Clássico|3
+Antígona|Sófocles|9788535930290|L&PM|2012|Teatro Clássico|3
+Medeia|Eurípides|9788535929454|Jorge Zahar|2015|Teatro Clássico|2
+As Bacantes|Eurípides|9788535928938|Jorge Zahar|2014|Teatro Clássico|2
+Ilíada|Homero|9788535931044|Penguin-Companhia|2013|Poesia Épica|3
+Odisseia|Homero|9788535929744|Penguin-Companhia|2015|Poesia Épica|4
+Eneida|Virgílio|9788535930825|Editora 34|2012|Poesia Épica|2
+A República|Platão|9788535928655|Edipro|2014|Filosofia|3
+O Banquete|Platão|9788535931778|L&PM|2017|Filosofia|3
+Fédon|Platão|9788535929836|Edipro|2016|Filosofia|2
+Ética a Nicômaco|Aristóteles|9788535930078|Edipro|2012|Filosofia|3
+Política|Aristóteles|9788535929522|Edipro|2015|Filosofia|2
+Poética|Aristóteles|9788535931082|Edipro|2013|Filosofia|3
+Meditações|Marco Aurélio|9788535928242|Edipro|2013|Filosofia|4
+Confissões|Santo Agostinho|9788535930603|Vozes|2012|Filosofia|2
+A Cidade de Deus|Santo Agostinho|9788535929348|Vozes|2014|Filosofia|2
+Suma Teológica|Tomás de Aquino|9788535931365|Loyola|2015|Filosofia|2
+O Príncipe|Nicolau Maquiavel|9788535928808|Penguin-Companhia|2014|Filosofia Política|5
+Discursos sobre a Primeira Década de Tito Lívio|Nicolau Maquiavel|9788535930146|Martins Fontes|2012|Filosofia Política|2
+Utopia|Thomas More|9788535929645|L&PM|2015|Filosofia Política|3
+Leviatã|Thomas Hobbes|9788535931617|Martins Fontes|2016|Filosofia Política|2
+Segundo Tratado sobre o Governo|John Locke|9788535928532|Edipro|2014|Filosofia Política|2
+Do Contrato Social|Jean-Jacques Rousseau|9788535930382|Penguin-Companhia|2012|Filosofia Política|4
+Discurso sobre a Origem da Desigualdade|Jean-Jacques Rousseau|9788535929287|L&PM|2014|Filosofia|3
+Emílio, ou Da Educação|Jean-Jacques Rousseau|9788535931433|Martins Fontes|2016|Filosofia|2
+Crítica da Razão Pura|Immanuel Kant|9788535928265|Vozes|2013|Filosofia|2
+Crítica da Razão Prática|Immanuel Kant|9788535930931|Edipro|2012|Filosofia|2
+Crítica da Faculdade do Juízo|Immanuel Kant|9788535929997|Forense Universitária|2015|Filosofia|2
+Fundamentação da Metafísica dos Costumes|Immanuel Kant|9788535931150|Edipro|2014|Filosofia|2
+A Paz Perpétua|Immanuel Kant|9788535928792|L&PM|2014|Filosofia Política|3
+Fenomenologia do Espírito|Georg Wilhelm Friedrich Hegel|9788535930658|Vozes|2012|Filosofia|2
+Ciência da Lógica|Georg Wilhelm Friedrich Hegel|9788535929409|Vozes|2015|Filosofia|2
+Filosofia do Direito|Georg Wilhelm Friedrich Hegel|9788535931296|Loyola|2015|Filosofia|2
+O Mundo como Vontade e Representação|Arthur Schopenhauer|9788535928136|Editora Unesp|2013|Filosofia|2
+Assim Falou Zaratustra|Friedrich Nietzsche|9788535930214|Companhia das Letras|2012|Filosofia|4
+Além do Bem e do Mal|Friedrich Nietzsche|9788535929133|Companhia das Letras|2014|Filosofia|3
+Genealogia da Moral|Friedrich Nietzsche|9788535931082|Companhia das Letras|2013|Filosofia|3
+O Nascimento da Tragédia|Friedrich Nietzsche|9788535928883|Companhia das Letras|2014|Filosofia|3
+Ecce Homo|Friedrich Nietzsche|9788535930498|Companhia das Letras|2012|Filosofia|2
+O Anticristo|Friedrich Nietzsche|9788535929744|Companhia das Letras|2015|Filosofia|2
+Crepúsculo dos Ídolos|Friedrich Nietzsche|9788535931365|Companhia das Letras|2015|Filosofia|2
+O Capital - Volume 1|Karl Marx|9788535928327|Boitempo|2013|Filosofia Política|2
+Manifesto Comunista|Karl Marx|9788535930863|Boitempo|2012|Filosofia Política|4
+A Ideologia Alemã|Karl Marx|9788535929591|Boitempo|2015|Filosofia|2
+Manuscritos Econômico-Filosóficos|Karl Marx|9788535931679|Boitempo|2016|Filosofia|2
+O 18 de Brumário de Luís Bonaparte|Karl Marx|9788535928594|Boitempo|2014|Filosofia Política|2
+Ser e Tempo|Martin Heidegger|9788535930726|Vozes|2012|Filosofia|2
+A Origem da Obra de Arte|Martin Heidegger|9788535929263|Edições 70|2014|Filosofia|2
+O Ser e o Nada|Jean-Paul Sartre|9788535931518|Vozes|2016|Filosofia|2
+Crítica da Razão Dialética|Jean-Paul Sartre|9788535928440|DP&A|2014|Filosofia|2
+O Existencialismo é um Humanismo|Jean-Paul Sartre|9788535930832|Vozes|2012|Filosofia|3
+O Segundo Sexo - Volume 1|Simone de Beauvoir|9788535929942|Nova Fronteira|2016|Filosofia|2
+O Segundo Sexo - Volume 2|Simone de Beauvoir|9788535929959|Nova Fronteira|2016|Filosofia|2
+A Náusea|Jean-Paul Sartre|9788535931235|Nova Fronteira|2015|Romance|3
+A Idade da Razão|Jean-Paul Sartre|9788535928716|Nova Fronteira|2014|Romance|2
+Entre Quatro Paredes|Jean-Paul Sartre|9788535930955|Civilização Brasileira|2012|Teatro|3
+As Moscas|Jean-Paul Sartre|9788535929362|Civilização Brasileira|2014|Teatro|2
+O Mito de Sísifo|Albert Camus|9788535931304|Record|2015|Filosofia|3
+O Homem Revoltado|Albert Camus|9788535928976|Record|2014|Filosofia|2
+O Estrangeiro|Albert Camus|9788535930870|Record|2012|Romance|5
+A Peste|Albert Camus|9788535929546|Record|2015|Romance|4
+A Queda|Albert Camus|9788535931426|Record|2016|Romance|2
+Calígula|Albert Camus|9788535928709|Civilização Brasileira|2014|Teatro|2
+Vigiar e Punir|Michel Foucault|9788535930092|Vozes|2012|Filosofia|3
+História da Loucura|Michel Foucault|9788535929225|Perspectiva|2014|Filosofia|2
+As Palavras e as Coisas|Michel Foucault|9788535931197|Martins Fontes|2014|Filosofia|2
+História da Sexualidade - Volume 1|Michel Foucault|9788535928976|Paz e Terra|2014|Filosofia|3
+História da Sexualidade - Volume 2|Michel Foucault|9788535930634|Paz e Terra|2012|Filosofia|2
+História da Sexualidade - Volume 3|Michel Foucault|9788535929379|Paz e Terra|2014|Filosofia|2
+A Arqueologia do Saber|Michel Foucault|9788535931540|Forense Universitária|2016|Filosofia|2
+Microfísica do Poder|Michel Foucault|9788535928433|Paz e Terra|2014|Filosofia|3
+A Ordem do Discurso|Michel Foucault|9788535930801|Loyola|2012|Filosofia|3
+Diferença e Repetição|Gilles Deleuze|9788535929096|Editora 34|2014|Filosofia|2
+Mil Platôs - Volume 1|Gilles Deleuze|9788535931723|Editora 34|2017|Filosofia|2
+Mil Platôs - Volume 2|Gilles Deleuze|9788535928600|Editora 34|2014|Filosofia|2
+Mil Platôs - Volume 3|Gilles Deleuze|9788535930252|Editora 34|2012|Filosofia|2
+Mil Platôs - Volume 4|Gilles Deleuze|9788535929867|Editora 34|2016|Filosofia|2
+Mil Platôs - Volume 5|Gilles Deleuze|9788535931990|Editora 34|2017|Filosofia|2
+O Anti-Édipo|Gilles Deleuze|9788535928228|Editora 34|2013|Filosofia|2
+O Que é a Filosofia?|Gilles Deleuze|9788535930993|Editora 34|2012|Filosofia|2
+A Lógica do Sentido|Gilles Deleuze|9788535929621|Perspectiva|2015|Filosofia|2
+Gramatologia|Jacques Derrida|9788535931334|Perspectiva|2015|Filosofia|2
+A Escritura e a Diferença|Jacques Derrida|9788535928884|Perspectiva|2014|Filosofia|2
+A Voz e o Fenômeno|Jacques Derrida|9788535930726|Jorge Zahar|2012|Filosofia|2
+Espectros de Marx|Jacques Derrida|9788535929263|Relume Dumará|2014|Filosofia|2
+Curso de Linguística Geral|Ferdinand de Saussure|9788535931518|Cultrix|2016|Linguística|3
+Morfologia do Conto|Vladimir Propp|9788535928440|CopyMarket|2014|Teoria Literária|2
+Problemas da Poética de Dostoiévski|Mikhail Bakhtin|9788535930832|Forense Universitária|2012|Teoria Literária|2
+A Cultura Popular na Idade Média|Mikhail Bakhtin|9788535929942|Hucitec|2016|Teoria Literária|2
+Marxismo e Filosofia da Linguagem|Mikhail Bakhtin|9788535931235|Hucitec|2015|Linguística|2
+Estética da Criação Verbal|Mikhail Bakhtin|9788535928716|Martins Fontes|2014|Teoria Literária|2
+Mitologias|Roland Barthes|9788535930955|Bertrand Brasil|2012|Semiótica|3
+O Grau Zero da Escritura|Roland Barthes|9788535929362|Cultrix|2014|Teoria Literária|2
+S/Z|Roland Barthes|9788535931304|Nova Fronteira|2015|Teoria Literária|2
+O Prazer do Texto|Roland Barthes|9788535928976|Perspectiva|2014|Teoria Literária|2
+A Câmara Clara|Roland Barthes|9788535930870|Nova Fronteira|2012|Fotografia|2
+Elementos de Semiologia|Roland Barthes|9788535929546|Cultrix|2015|Semiótica|2
+Sistema da Moda|Roland Barthes|9788535931426|Martins Fontes|2016|Semiótica|2
+A Interpretação dos Sonhos|Sigmund Freud|9788535928709|L&PM|2014|Psicanálise|3
+O Mal-Estar na Civilização|Sigmund Freud|9788535930092|Penguin-Companhia|2012|Psicanálise|4
+Além do Princípio do Prazer|Sigmund Freud|9788535929225|Companhia das Letras|2014|Psicanálise|2
+Totem e Tabu|Sigmund Freud|9788535931197|Penguin-Companhia|2014|Psicanálise|3
+Três Ensaios sobre a Teoria da Sexualidade|Sigmund Freud|9788535928976|Companhia das Letras|2014|Psicanálise|2
+Psicologia das Massas e Análise do Eu|Sigmund Freud|9788535930634|Companhia das Letras|2012|Psicanálise|2
+Luto e Melancolia|Sigmund Freud|9788535929379|Cosac Naify|2014|Psicanálise|2
+O Futuro de uma Ilusão|Sigmund Freud|9788535931540|Penguin-Companhia|2016|Psicanálise|2
+Moisés e o Monoteísmo|Sigmund Freud|9788535928433|Companhia das Letras|2014|Psicanálise|2
+Os Chistes e Sua Relação com o Inconsciente|Sigmund Freud|9788535930801|Companhia das Letras|2012|Psicanálise|2
+Escritos|Jacques Lacan|9788535929096|Jorge Zahar|2014|Psicanálise|2
+O Seminário - Livro 1|Jacques Lacan|9788535931723|Jorge Zahar|2017|Psicanálise|2
+O Seminário - Livro 2|Jacques Lacan|9788535928600|Jorge Zahar|2014|Psicanálise|2
+O Seminário - Livro 7|Jacques Lacan|9788535930252|Jorge Zahar|2012|Psicanálise|2
+O Seminário - Livro 11|Jacques Lacan|9788535929867|Jorge Zahar|2016|Psicanálise|2
+O Seminário - Livro 20|Jacques Lacan|9788535931990|Jorge Zahar|2017|Psicanálise|2
+Psicologia Analítica|Carl Gustav Jung|9788535928228|Vozes|2013|Psicologia|2
+O Homem e Seus Símbolos|Carl Gustav Jung|9788535930993|Nova Fronteira|2012|Psicologia|4
+Os Arquétipos e o Inconsciente Coletivo|Carl Gustav Jung|9788535929621|Vozes|2015|Psicologia|2
+Memórias, Sonhos, Reflexões|Carl Gustav Jung|9788535931334|Nova Fronteira|2015|Biografia|3
+Psicologia do Inconsciente|Carl Gustav Jung|9788535928884|Vozes|2014|Psicologia|2
+A Dinâmica do Inconsciente|Carl Gustav Jung|9788535930726|Vozes|2012|Psicologia|2
+Aion: Estudos sobre o Simbolismo do Si-Mesmo|Carl Gustav Jung|9788535929263|Vozes|2014|Psicologia|2
+A Natureza da Psique|Carl Gustav Jung|9788535931518|Vozes|2016|Psicologia|2
+Tipos Psicológicos|Carl Gustav Jung|9788535928440|Vozes|2014|Psicologia|2
+Psicologia da Religião Ocidental e Oriental|Carl Gustav Jung|9788535930832|Vozes|2012|Psicologia|2
+A Interpretação da Natureza e a Psique|Carl Gustav Jung|9788535929942|Vozes|2016|Psicologia|2
+Sincronicidade|Carl Gustav Jung|9788535931235|Vozes|2015|Psicologia|2
+Fundamentos de Psicologia Analítica|Carl Gustav Jung|9788535928716|Vozes|2014|Psicologia|2
+Civilização em Transição|Carl Gustav Jung|9788535930955|Vozes|2012|Psicologia|2
+O Desenvolvimento da Personalidade|Carl Gustav Jung|9788535929362|Vozes|2014|Psicologia|2
+A Prática da Psicoterapia|Carl Gustav Jung|9788535931304|Vozes|2015|Psicologia|2
+Símbolos da Transformação|Carl Gustav Jung|9788535928976|Vozes|2014|Psicologia|2
+Mysterium Coniunctionis|Carl Gustav Jung|9788535930870|Vozes|2012|Psicologia|2
+A Energia Psíquica|Carl Gustav Jung|9788535929546|Vozes|2015|Psicologia|2
+Psicogênese das Doenças Mentais|Carl Gustav Jung|9788535931426|Vozes|2016|Psicologia|2
+Estudos Experimentais|Carl Gustav Jung|9788535928709|Vozes|2014|Psicologia|2
+Psicologia e Alquimia|Carl Gustav Jung|9788535930092|Vozes|2012|Psicologia|2
+Ab-reação, Análise dos Sonhos, Transferência|Carl Gustav Jung|9788535929225|Vozes|2014|Psicologia|2
+Freud e a Psicanálise|Carl Gustav Jung|9788535931197|Vozes|2014|Psicologia|2
+Estudos sobre Psicologia Analítica|Carl Gustav Jung|9788535928976|Vozes|2014|Psicologia|2
+A Vida Simbólica|Carl Gustav Jung|9788535930634|Vozes|2012|Psicologia|2
+Resposta a Jó|Carl Gustav Jung|9788535929379|Vozes|2014|Psicologia|2
+Psicologia e Educação|Carl Gustav Jung|9788535931540|Vozes|2016|Psicologia|2
+A Arte de Amar|Erich Fromm|9788535930801|Zahar|2012|Psicologia|3
+O Medo à Liberdade|Erich Fromm|9788535929096|Zahar|2014|Psicologia|2
+Análise do Homem|Erich Fromm|9788535931723|Zahar|2017|Psicologia|2
+Ter ou Ser?|Erich Fromm|9788535928600|Zahar|2014|Filosofia|3
+A Revolução da Esperança|Erich Fromm|9788535930252|Zahar|2012|Psicologia|2
+Psicanálise da Sociedade Contemporânea|Erich Fromm|9788535929867|Zahar|2016|Psicologia|2
+O Coração do Homem|Erich Fromm|9788535931990|Zahar|2017|Psicologia|2
+A Grandeza e Limitações do Pensamento de Freud|Erich Fromm|9788535928228|Zahar|2013|Psicologia|2
+Anatomia da Destrutividade Humana|Erich Fromm|9788535930993|Zahar|2012|Psicologia|2
+O Inconsciente|Sigmund Freud|9788535930993|Companhia das Letras|2012|Psicanálise|2
+Ensaio Sobre a Cegueira|José Saramago|9788535929416|Companhia das Letras|2015|Romance|4
+O Xangô de Baker Street|Jô Soares|9788535902839|Companhia das Letras|2014|Romance Policial|3
+O Homem que Matou Getúlio Vargas|Jô Soares|9788535912272|Companhia das Letras|2011|Romance Histórico|2
+As Esganadas|Jô Soares|9788535920505|Companhia das Letras|2013|Romance Policial|3
+Assassinatos na Academia Brasileira de Letras|Jô Soares|9788535929928|Companhia das Letras|2015|Romance Policial|3
+Tarifa de Embarque|Antônio Carlos Viana|9788535909548|Record|2012|Romance|2
+A Majestade do Xingu|Moacyr Scliar|9788535910483|Companhia das Letras|2011|Romance|2
+O Centauro no Jardim|Moacyr Scliar|9788535916607|Companhia das Letras|2012|Romance|3
+A Estranha Nação de Rafael Mendes|Moacyr Scliar|9788535918977|Companhia das Letras|2013|Romance|2
+Os Voluntários|Moacyr Scliar|9788535922110|Companhia das Letras|2014|Romance|2
+Max e os Felinos|Moacyr Scliar|9788535925258|L&PM|2015|Romance|3
+A Mulher que Escreveu a Bíblia|Moacyr Scliar|9788535928396|Companhia das Letras|2014|Romance|2
+Manual da Paixão Solitária|Moacyr Scliar|9788535930764|Companhia das Letras|2012|Romance|2
+Enigma da Esfinge|Moacyr Scliar|9788535932096|Companhia das Letras|2017|Romance|2
+Sonhos Tropicais|Moacyr Scliar|9788535909630|Companhia das Letras|2011|Romance Histórico|2
+Cavalos e Homens|Moacyr Scliar|9788535912395|Companhia das Letras|2011|Contos|2
+A Orelha de Van Gogh|Moacyr Scliar|9788535916744|Companhia das Letras|2012|Contos|2
+Histórias que os Jornais Não Contam|Moacyr Scliar|9788535920680|Companhia das Letras|2013|Contos|2
+O Ciclo das Águas|Moacyr Scliar|9788535924077|Globo|2014|Romance|2
+A Ballada do Falso Messias|Moacyr Scliar|9788535926361|Companhia das Letras|2016|Romance|2
+Me Leva Brasil|Moacyr Scliar|9788535928518|L&PM|2014|Crônicas|2
+Moacyr Scliar: Contos Reunidos|Moacyr Scliar|9788535930658|Companhia das Letras|2012|Contos|3
+O Exército de um Homem Só|Moacyr Scliar|9788535933345|L&PM|2018|Romance|2
+Saturno nos Trópicos|Moacyr Scliar|9788535909920|Companhia das Letras|2011|Romance|2
+Cenas da Vida Minúscula|Moacyr Scliar|9788535913040|L&PM|2011|Romance|2
+A Massagista Japonesa|Moacyr Scliar|9788535916850|Companhia das Letras|2012|Contos|2
+Os Deuses de Raquel|Moacyr Scliar|9788535920772|Companhia das Letras|2013|Romance|2
+Na Noite do Ventre o Diamante|Moacyr Scliar|9788535924160|Companhia das Letras|2014|Romance|2
+Do Mágico ao Social|Moacyr Scliar|9788535926453|Companhia das Letras|2016|Ensaio|2
+Um País Chamado Infância|Moacyr Scliar|9788535928600|Companhia das Letras|2014|Ensaio|2
+Memórias de um Aprendiz de Escritor|Moacyr Scliar|9788535930733|Companhia das Letras|2012|Biografia|2
+A Face Oculta|Maria Adelaide Amaral|9788535914283|Globo|2011|Romance|2
+De Amor e de Guerra|Maria Adelaide Amaral|9788535920857|Globo|2013|Romance|2
+Querida Mamãe|Maria Adelaide Amaral|9788535926538|Globo|2016|Romance|2
+A Resistência|Maria Adelaide Amaral|9788535928662|Globo|2014|Romance|2
+Chiquinha Gonzaga|Maria Adelaide Amaral|9788535930825|Globo|2012|Biografia|2
+Aos Meus Amigos|Maria Adelaide Amaral|9788535932560|Globo|2017|Romance|2
+Tarsila|Maria Adelaide Amaral|9788535934434|Globo|2018|Romance|2
+A Dama do Lotação|Nélida Piñon|9788535910551|Record|2011|Romance|2
+Fundador|Nélida Piñon|9788535914375|Record|2011|Romance|2
+A República dos Sonhos|Nélida Piñon|9788535920949|Record|2013|Romance|3
+A Força do Destino|Nélida Piñon|9788535926620|Record|2016|Romance|2
+Vozes do Deserto|Nélida Piñon|9788535928747|Record|2014|Romance|2
+O Presumível Coração da América|Nélida Piñon|9788535930894|Record|2012|Romance|2
+Coração Andarilho|Nélida Piñon|9788535932637|Record|2017|Romance|2
+Até Amanhã, Outra Vez|Nélida Piñon|9788535934519|Record|2018|Contos|2
+A Camisa do Marido|Nélida Piñon|9788535909705|Record|2011|Contos|2
+O Calor das Coisas|Nélida Piñon|9788535914467|Record|2011|Contos|2
+Tempo das Frutas|Nélida Piñon|9788535921038|Record|2013|Contos|2
+Paisagens das Américas|Nélida Piñon|9788535926712|Record|2016|Ensaio|2
+Aprendiz de Homero|Nélida Piñon|9788535928839|Record|2014|Ensaio|2
+O Pão de Cada Dia|Nélida Piñon|9788535930962|Record|2012|Crônicas|2
+O Eco do Meu Nome|Nélida Piñon|9788535932720|Record|2017|Ensaio|2
+Livro das Horas|Nélida Piñon|9788535934601|Record|2018|Contos|2
+Casmurro de Machado|Nélida Piñon|9788535909798|Record|2011|Ensaio|2
+Machado de Assis Múltiplo|Nélida Piñon|9788535914559|Record|2011|Ensaio|2
+No Próximo Coração|Nélida Piñon|9788535921120|Record|2013|Romance|2
+Sala de Armas|Nélida Piñon|9788535926804|Record|2016|Contos|2
+Guia-Mapa de Gabriel García Márquez|Nélida Piñon|9788535928921|Record|2014|Ensaio|2
+Roteiro do Silêncio|Nélida Piñon|9788535931037|Record|2012|Romance|2
+Aquela Tarde no Hotel Biltmore|Nélida Piñon|9788535932812|Record|2017|Contos|2
+A Árvore das Palavras|Nélida Piñon|9788535934693|Record|2018|Ensaio|2
+Mulher no Espelho|Martha Medeiros|9788535914641|L&PM|2011|Romance|3
+Feliz por Nada|Martha Medeiros|9788535921212|L&PM|2013|Crônicas|4
+Doidas e Santas|Martha Medeiros|9788535926896|L&PM|2016|Crônicas|4
+Trem-Bala|Martha Medeiros|9788535929010|L&PM|2014|Romance|3
+A Distância das Coisas|Martha Medeiros|9788535931129|L&PM|2012|Romance|2
+Divã|Martha Medeiros|9788535909880|L&PM|2011|Romance|4
+Montanha-Russa|Martha Medeiros|9788535914733|L&PM|2011|Crônicas|3
+Tudo o Que Você Precisa para Ser Feliz|Martha Medeiros|9788535921304|L&PM|2013|Crônicas|3
+Por Que Não Dancei|Martha Medeiros|9788535926988|L&PM|2016|Crônicas|3
+A Lição de Borges|Martha Medeiros|9788535929102|L&PM|2014|Romance|2
+Retratos|Martha Medeiros|9788535931211|L&PM|2012|Crônicas|3
+Posso Não Acreditar em Você|Martha Medeiros|9788535932904|L&PM|2017|Romance|2
+De Amor e de Amizade|Martha Medeiros|9788535934785|L&PM|2018|Crônicas|3
+Poesia Reunida|Martha Medeiros|9788535909972|L&PM|2011|Poesia|2
+Um Por Todos|Martha Medeiros|9788535914825|L&PM|2011|Crônicas|2
+Anotações do Cotidiano|Martha Medeiros|9788535921396|L&PM|2013|Crônicas|2
+Notas da Vida Cotidiana|Martha Medeiros|9788535927071|L&PM|2016|Crônicas|2
+Viva Como se Fosse Morrer Amanhã|Martha Medeiros|9788535929195|L&PM|2014|Crônicas|3
+Só Por Hoje|Martha Medeiros|9788535931303|L&PM|2012|Crônicas|2
+Toda Terça|Martha Medeiros|9788535932996|L&PM|2017|Crônicas|3
+30 Anos sem Maria Callas|Martha Medeiros|9788535934877|L&PM|2018|Romance|2
+Não Era Você que Eu Esperava|Martha Medeiros|9788535909064|L&PM|2011|Crônicas|3
+Cidadão Francês|Adriana Falcão|9788535914917|Salamandra|2011|Romance|2
+A Máquina|Adriana Falcão|9788535921488|Salamandra|2013|Romance Juvenil|3
+Luna Clara e Apolo 11|Adriana Falcão|9788535927163|Moderna|2016|Literatura Infantil|4
+O Pequeno Príncipe Preto|Rodrigo França|9788535935141|Nova Fronteira|2019|Literatura Infantil|5
+Amoras|Emicida|9788535933673|Companhia das Letrinhas|2018|Literatura Infantil|6
+E Foi Assim que Eu e a Escuridão Ficamos Amigas|Emicida|9788535935158|Companhia das Letrinhas|2019|Literatura Infantil|5
+Sulwe|Lupita Nyongo|9788535934168|Rocco|2019|Literatura Infantil|4
+O Cabelo de Lelê|Valéria Belém|9788535909156|Companhia das Letrinhas|2012|Literatura Infantil|3
+Betina|Nilma Lino Gomes|9788535927248|Mazza Edições|2016|Literatura Infantil|3
+Menina Bonita do Laço de Fita|Ana Maria Machado|9788535909248|Ática|2012|Literatura Infantil|5
+Chapeuzinho Amarelo|Chico Buarque|9788535914009|José Olympio|2011|Literatura Infantil|4
+O Menino Maluquinho|Ziraldo|9788535921571|Melhoramentos|2013|Literatura Infantil|6
+A Turma da Mônica: Laços|Mauricio de Sousa|9788535927330|Panini|2016|Quadrinhos|5
+O Guarani em Quadrinhos|Mauricio de Sousa|9788535929287|Panini|2014|Quadrinhos|3
+Dom Casmurro em Quadrinhos|Mauricio de Sousa|9788535931395|Panini|2012|Quadrinhos|3
+Grande Sertão: Veredas em Quadrinhos|Eloar Guazzelli|9788535933765|Companhia das Letras|2018|Quadrinhos|2
+Capitães da Areia em Quadrinhos|Arnaldo Branco|9788535935248|Companhia das Letras|2019|Quadrinhos|3
+O Cortiço em Quadrinhos|Ivan Jaf|9788535909330|Ática|2012|Quadrinhos|2
+Memórias Póstumas de Brás Cubas em Quadrinhos|Wellington Srbek|9788535921663|Nemo|2013|Quadrinhos|2
+Vidas Secas em Quadrinhos|Arnaldo Branco|9788535927422|Record|2016|Quadrinhos|2
+O Alienista em Quadrinhos|Fábio Moon|9788535929379|Agir|2014|Quadrinhos|3
+Daytripper|Fábio Moon|9788535931488|Panini|2012|Quadrinhos|3
+De:Tales - Histórias de Irmãos|Fábio Moon|9788535934076|Veneta|2019|Quadrinhos|2
+Meu Amigo Dahmer|Derf Backderf|9788535921755|DarkSide Books|2013|Quadrinhos|3
+Maus|Art Spiegelman|9788535927514|Companhia das Letras|2016|Quadrinhos|4
+Persépolis|Marjane Satrapi|9788535929464|Companhia das Letras|2014|Quadrinhos|4
+V de Vingança|Alan Moore|9788535931571|Panini|2012|Quadrinhos|4
+Watchmen|Alan Moore|9788535933857|Panini|2018|Quadrinhos|5
+Sandman: Prelúdios e Noturnos|Neil Gaiman|9788535909422|Panini|2012|Quadrinhos|5
+Sandman: A Casa de Bonecas|Neil Gaiman|9788535921847|Panini|2013|Quadrinhos|4
+Sandman: Terra dos Sonhos|Neil Gaiman|9788535927606|Panini|2016|Quadrinhos|4
+Sandman: Estação das Brumas|Neil Gaiman|9788535929556|Panini|2014|Quadrinhos|4
+Sandman: Um Jogo de Você|Neil Gaiman|9788535931663|Panini|2012|Quadrinhos|3
+Sandman: Vidas Breves|Neil Gaiman|9788535933949|Panini|2018|Quadrinhos|3
+American Gods|Neil Gaiman|9788535909514|Intrínseca|2012|Fantasia|4
+Deuses Americanos|Neil Gaiman|9788535921939|Intrínseca|2013|Fantasia|4
+Bons Presságios|Neil Gaiman|9788535927698|Intrínseca|2016|Fantasia|3
+Lugar Nenhum|Neil Gaiman|9788535929648|Intrínseca|2014|Fantasia|3
+Deuses Americanos: A Sombra|Neil Gaiman|9788535931755|Intrínseca|2012|Fantasia|3
+Coraline|Neil Gaiman|9788535934031|Intrínseca|2019|Literatura Juvenil|4
+O Oceano no Fim do Caminho|Neil Gaiman|9788535909606|Intrínseca|2012|Fantasia|4
+Stardust|Neil Gaiman|9788535922026|Intrínseca|2013|Fantasia|3
+Norse Mythology|Neil Gaiman|9788535927781|Intrínseca|2017|Mitologia|4
+Mitologia Nórdica|Neil Gaiman|9788535929730|Intrínseca|2014|Mitologia|4
+A Biblioteca da Meia-Noite|Matt Haig|9788535934212|Bertrand Brasil|2021|Ficção|7
+Os Humanos|Matt Haig|9788535921021|Bertrand Brasil|2013|Ficção|3
+Como Parar o Tempo|Matt Haig|9788535927873|Bertrand Brasil|2017|Romance|3
+Razões para Ficar Vivo|Matt Haig|9788535929822|Bertrand Brasil|2014|Não-ficção|4
+Notas sobre um Planeta Nervoso|Matt Haig|9788535931847|Bertrand Brasil|2012|Não-ficção|3
+Um Menino Chamado Natal|Matt Haig|9788535934304|Intrínseca|2019|Literatura Infantil|4
+A Garota do Natal|Matt Haig|9788535909698|Intrínseca|2012|Literatura Infantil|3
+O Poder do Agora|Eckhart Tolle|9788535922118|Sextante|2013|Autoajuda|5
+Um Novo Mundo|Eckhart Tolle|9788535927965|Sextante|2017|Autoajuda|4
+Praticando o Poder do Agora|Eckhart Tolle|9788535929915|Sextante|2014|Autoajuda|3
+O Silêncio Fala|Eckhart Tolle|9788535931939|Sextante|2012|Autoajuda|3
+Guardados no Coração|Eckhart Tolle|9788535934396|Sextante|2019|Autoajuda|3
+A Arte de Aquietar a Mente|Eckhart Tolle|9788535909780|Sextante|2012|Autoajuda|3
+Oneness com Toda a Vida|Eckhart Tolle|9788535922200|Sextante|2013|Autoajuda|2
+Milton Hatoum: Contos Reunidos|Milton Hatoum|9788535928044|Companhia das Letras|2013|Contos|2
+Dois Irmãos|Milton Hatoum|9788535910636|Companhia das Letras|2011|Romance|4
+Relato de um Certo Oriente|Milton Hatoum|9788535922293|Companhia das Letras|2013|Romance|3
+Cinzas do Norte|Milton Hatoum|9788535928051|Companhia das Letras|2017|Romance|3
+Órfãos do Eldorado|Milton Hatoum|9788535930008|Companhia das Letras|2014|Romance|2
+A Noite da Espera|Milton Hatoum|9788535932029|Companhia das Letras|2012|Romance|3
+Pontos de Fuga|Milton Hatoum|9788535934489|Companhia das Letras|2019|Romance|3
+A Cidade Ilhada|Milton Hatoum|9788535909872|Companhia das Letras|2012|Contos|2
+Um Solitário à Espreita|Milton Hatoum|9788535922385|Companhia das Letras|2013|Crônicas|2
+Literatura e Memória: Notas sobre Relato|Milton Hatoum|9788535928143|Companhia das Letras|2017|Ensaio|2
+A Livraria 24 Horas do Mr. Penumbra|Robin Sloan|9788535930070|Intrínseca|2014|Ficção|3
+Ajax Penumbra 1969|Robin Sloan|9788535932111|Intrínseca|2012|Ficção|2
+Mr. Penumbra e o Eterno Aprendizado|Robin Sloan|9788535934571|Intrínseca|2019|Ficção|2
+Sourdough|Robin Sloan|9788535909964|Intrínseca|2012|Ficção|2
+A Empregada|Freida McFadden|9788535934663|Arqueiro|2023|Suspense|8
+A Hóspede|Freida McFadden|9788535934755|Arqueiro|2023|Suspense|7
+O Segredo da Viúva|Freida McFadden|9788535934847|Arqueiro|2023|Suspense|6
+A Professora|Freida McFadden|9788535934939|Arqueiro|2024|Suspense|6
+Nunca Minta para Mim|Freida McFadden|9788535935023|Arqueiro|2024|Suspense|5
+Os Sete Maridos de Evelyn Hugo|Taylor Jenkins Reid|9788535922477|Paralela|2019|Romance|8
+Daisy Jones and The Six|Taylor Jenkins Reid|9788535928235|Paralela|2019|Romance|7
+Malibu Renasce|Taylor Jenkins Reid|9788535930162|Paralela|2021|Romance|6
+Eternamente Seu|Taylor Jenkins Reid|9788535932203|Paralela|2022|Romance|5
+Talvez em Outra Vida|Taylor Jenkins Reid|9788535934754|Paralela|2023|Romance|4
+Um Dia de Dezembro|Josie Silver|9788535922569|Paralela|2019|Romance|6
+Dois é Pouco, Três é Demais|Josie Silver|9788535928327|Paralela|2020|Romance|5
+O Apartamento Esquecido|Josie Silver|9788535930254|Paralela|2021|Romance|4
+Colleen Hoover - É Assim que Acaba|Colleen Hoover|9788501110886|Galera|2018|Romance|10
+Colleen Hoover - É Assim que Começa|Colleen Hoover|9788501117267|Galera|2022|Romance|9
+Colleen Hoover - Verity|Colleen Hoover|9788501116413|Galera|2021|Romance|8
+Colleen Hoover - Ugly Love|Colleen Hoover|9788501105028|Galera|2016|Romance|7
+Colleen Hoover - Confess|Colleen Hoover|9788501106315|Galera|2017|Romance|6
+Colleen Hoover - November 9|Colleen Hoover|9788501109477|Galera|2018|Romance|6
+Colleen Hoover - Reminders of Him|Colleen Hoover|9788501118073|Galera|2023|Romance|5
+Colleen Hoover - Heart Bones|Colleen Hoover|9788501117359|Galera|2022|Romance|4
+A Cinco Passos de Você|Rachael Lippincott|9788501116727|Alt|2019|Romance Juvenil|6
+Todos os Nossos Dias Perfeitos|Jennifer Niven|9788501105141|Seguinte|2016|Romance Juvenil|5
+Para Todos os Garotos que Já Amei|Jenny Han|9788580579451|Intrínseca|2014|Romance Juvenil|7
+P.S. Ainda Amo Você|Jenny Han|9788580579468|Intrínseca|2015|Romance Juvenil|6
+Agora e Para Sempre, Lara Jean|Jenny Han|9788580579475|Intrínseca|2017|Romance Juvenil|6
+O Verão que Mudou Minha Vida|Jenny Han|9788501106421|Arqueiro|2017|Romance Juvenil|5
+É Assim que Você Me Perde|Jenny Han|9788501109583|Arqueiro|2018|Romance Juvenil|4
+Nós Nunca Vamos Voltar para Casa|Jenny Han|9788501110978|Arqueiro|2018|Romance Juvenil|4
+Depois Daquele Dia|Jennifer Lynn Barnes|9788501117441|Globo Alt|2022|Romance Juvenil|5
+Herança de Sangue e Cinzas|Jennifer Lynn Barnes|9788501118158|Globo Alt|2023|Suspense|5
+Os Testamentos|Margaret Atwood|9788535933032|Rocco|2019|Ficção Distópica|5
+O Conto da Aia|Margaret Atwood|9788535909056|Rocco|2012|Ficção Distópica|6
+Alias Grace|Margaret Atwood|9788535922651|Rocco|2017|Romance Histórico|3
+O Assassino Cego|Margaret Atwood|9788535928419|Rocco|2014|Romance|3
+A Noiva Ladra|Margaret Atwood|9788535930346|Rocco|2012|Romance|2
+O Ano do Dilúvio|Margaret Atwood|9788535932295|Rocco|2017|Ficção Científica|3
+Oryx e Crake|Margaret Atwood|9788535934846|Rocco|2019|Ficção Científica|3
+MaddAddam|Margaret Atwood|9788535909148|Rocco|2012|Ficção Científica|2
+Hag-Seed|Margaret Atwood|9788535922743|Rocco|2017|Ficção|2
+A Tenda|Margaret Atwood|9788535928501|Rocco|2014|Romance|2
+Um Estranho no Ninho|Ken Kesey|9788535930438|L&PM|2012|Romance|3
+Na Estrada|Jack Kerouac|9788535922835|L&PM|2017|Romance|4
+Os Vagabundos Iluminados|Jack Kerouac|9788535928593|L&PM|2014|Romance|3
+Big Sur|Jack Kerouac|9788535930520|L&PM|2012|Romance|2
+O Apanhador no Campo de Centeio|J.D. Salinger|9788535932387|Todavia|2019|Romance|5
+Nove Estórias|J.D. Salinger|9788535909240|Todavia|2019|Contos|3
+Franny e Zooey|J.D. Salinger|9788535922927|Todavia|2019|Romance|3
+Levantem a Cumeeira, Carpinteiros|J.D. Salinger|9788535928685|Todavia|2019|Contos|2
+Admirável Mundo Novo|Aldous Huxley|9788535923018|Globo Livros|2014|Ficção Distópica|5
+As Portas da Percepção|Aldous Huxley|9788535928777|Globo Livros|2015|Ensaio|3
+A Ilha|Aldous Huxley|9788535930612|Globo Livros|2012|Ficção|2
+Fahrenheit 451|Ray Bradbury|9788535932479|Globo Livros|2017|Ficção Distópica|5
+Crônicas Marcianas|Ray Bradbury|9788535909332|Globo Livros|2012|Ficção Científica|4
+O Homem Ilustrado|Ray Bradbury|9788535923100|Globo Livros|2014|Contos|3
+Vinho do Estio|Ray Bradbury|9788535928869|Globo Livros|2015|Romance|2
+Laranja Mecânica|Anthony Burgess|9788535930704|Aleph|2012|Ficção Distópica|4
+Neuromancer|William Gibson|9788535923192|Aleph|2016|Ficção Científica|3
+Snow Crash|Neal Stephenson|9788535928951|Aleph|2015|Ficção Científica|3
+O Homem do Castelo Alto|Philip K. Dick|9788535930796|Aleph|2012|Ficção Científica|3
+Androides Sonham com Ovelhas Elétricas?|Philip K. Dick|9788535932561|Aleph|2017|Ficção Científica|4
+Ubik|Philip K. Dick|9788535909424|Aleph|2012|Ficção Científica|2
+Fundação|Isaac Asimov|9788535923284|Aleph|2014|Ficção Científica|4
+Fundação e Império|Isaac Asimov|9788535929043|Aleph|2015|Ficção Científica|3
+Segunda Fundação|Isaac Asimov|9788535930888|Aleph|2012|Ficção Científica|3
+Os Limites da Fundação|Isaac Asimov|9788535932653|Aleph|2017|Ficção Científica|3
+Fundação e Terra|Isaac Asimov|9788535909516|Aleph|2012|Ficção Científica|3
+Prelúdio à Fundação|Isaac Asimov|9788535923376|Aleph|2014|Ficção Científica|3
+Rumo à Fundação|Isaac Asimov|9788535929135|Aleph|2015|Ficção Científica|2
+Eu, Robô|Isaac Asimov|9788535930970|Aleph|2012|Ficção Científica|4
+O Fim da Eternidade|Isaac Asimov|9788535932745|Aleph|2017|Ficção Científica|3
+Série Robôs: Cavernas de Aço|Isaac Asimov|9788535909608|Aleph|2012|Ficção Científica|3
+Série Robôs: O Sol Desvelado|Isaac Asimov|9788535923468|Aleph|2014|Ficção Científica|2
+Série Robôs: Os Robôs da Alvorada|Isaac Asimov|9788535929227|Aleph|2015|Ficção Científica|2
+Série Robôs: Robôs e Império|Isaac Asimov|9788535931068|Aleph|2012|Ficção Científica|2
+Duna|Frank Herbert|9788535932837|Aleph|2017|Ficção Científica|6
+Duna: O Messias|Frank Herbert|9788535909691|Aleph|2012|Ficção Científica|4
+Duna: Os Filhos de Duna|Frank Herbert|9788535923550|Aleph|2014|Ficção Científica|4
+Duna: O Imperador-Deus de Duna|Frank Herbert|9788535929319|Aleph|2015|Ficção Científica|3
+Duna: Os Hereges de Duna|Frank Herbert|9788535931150|Aleph|2012|Ficção Científica|3
+Duna: As Herdeiras de Duna|Frank Herbert|9788535932929|Aleph|2017|Ficção Científica|3
+Solaris|Stanisław Lem|9788535909783|Aleph|2012|Ficção Científica|3
+2001: Uma Odisseia no Espaço|Arthur C. Clarke|9788535923642|Aleph|2014|Ficção Científica|4
+2010: Uma Odisseia no Espaço 2|Arthur C. Clarke|9788535929401|Aleph|2015|Ficção Científica|3
+2061: Uma Odisseia no Espaço 3|Arthur C. Clarke|9788535931242|Aleph|2012|Ficção Científica|2
+3001: Uma Odisseia Final|Arthur C. Clarke|9788535933011|Aleph|2017|Ficção Científica|2
+Encontro com Rama|Arthur C. Clarke|9788535909875|Aleph|2012|Ficção Científica|3
+O Fim da Infância|Arthur C. Clarke|9788535923734|Aleph|2014|Ficção Científica|3
+A Cidade e as Estrelas|Arthur C. Clarke|9788535929493|Aleph|2015|Ficção Científica|2
+Guerra Mundial Z|Max Brooks|9788535931334|Leya|2012|Terror|4
+Guia de Sobrevivência Zumbi|Max Brooks|9788535933103|Leya|2017|Terror|3
+Minecraft: A Ilha|Max Brooks|9788535909967|Intrínseca|2018|Literatura Juvenil|4
+Minecraft: A Montanha|Max Brooks|9788535923826|Intrínseca|2019|Literatura Juvenil|3
+A Guerra dos Mundos|H.G. Wells|9788535929585|Aleph|2015|Ficção Científica|3
+A Máquina do Tempo|H.G. Wells|9788535931426|Aleph|2012|Ficção Científica|3
+O Homem Invisível|H.G. Wells|9788535933195|Aleph|2017|Ficção Científica|3
+A Ilha do Dr. Moreau|H.G. Wells|9788535910058|Aleph|2012|Ficção Científica|2
+Vinte Mil Léguas Submarinas|Júlio Verne|9788535923918|Zahar|2014|Ficção Científica|4
+A Volta ao Mundo em 80 Dias|Júlio Verne|9788535929677|Zahar|2015|Aventura|5
+Viagem ao Centro da Terra|Júlio Verne|9788535931518|Zahar|2012|Ficção Científica|4
+Da Terra à Lua|Júlio Verne|9788535933287|Zahar|2017|Ficção Científica|3
+A Ilha Misteriosa|Júlio Verne|9788535910140|Zahar|2012|Aventura|3
+Cinco Semanas em um Balão|Júlio Verne|9788535924007|Zahar|2014|Aventura|2
+As Aventuras do Capitão Hatteras|Júlio Verne|9788535929769|Zahar|2015|Aventura|2
+Os Filhos do Capitão Grant|Júlio Verne|9788535931600|Zahar|2012|Aventura|2
+Robinson Crusoé|Daniel Defoe|9788535933379|Zahar|2017|Aventura|3
+As Viagens de Gulliver|Jonathan Swift|9788535910232|Zahar|2012|Sátira|3
+A Ilha do Tesouro|Robert Louis Stevenson|9788535924099|Zahar|2014|Aventura|4
+O Velho e o Mar|Ernest Hemingway|9788535929851|Bertrand Brasil|2015|Romance|4
+Por Quem os Sinos Dobram|Ernest Hemingway|9788535931692|Bertrand Brasil|2012|Romance|3
+O Sol Também se Levanta|Ernest Hemingway|9788535933461|Bertrand Brasil|2017|Romance|3
+Adeus às Armas|Ernest Hemingway|9788535910324|Bertrand Brasil|2012|Romance|3
+Paris é uma Festa|Ernest Hemingway|9788535924181|Bertrand Brasil|2014|Memórias|3
+As Neves do Kilimanjaro|Ernest Hemingway|9788535929943|Bertrand Brasil|2015|Contos|2
+O Grande Gatsby|F. Scott Fitzgerald|9788535931784|L&PM|2012|Romance|5
+Suave é a Noite|F. Scott Fitzgerald|9788535933553|L&PM|2017|Romance|3
+Este Lado do Paraíso|F. Scott Fitzgerald|9788535910416|L&PM|2012|Romance|2
+Os Belos e Malditos|F. Scott Fitzgerald|9788535924273|L&PM|2014|Romance|2
+O Último Magnata|F. Scott Fitzgerald|9788535930035|L&PM|2015|Romance|2
+Contos da Era do Jazz|F. Scott Fitzgerald|9788535931876|L&PM|2012|Contos|2
+O Som e a Fúria|William Faulkner|9788535933645|Cosac Naify|2017|Romance|2
+Enquanto Agonizo|William Faulkner|9788535910508|Cosac Naify|2012|Romance|3
+Luz em Agosto|William Faulkner|9788535924365|Cosac Naify|2014|Romance|2
+Absalão, Absalão!|William Faulkner|9788535930127|Cosac Naify|2015|Romance|2
+Palmeiras Selvagens|William Faulkner|9788535931968|Cosac Naify|2012|Romance|2
+As Vinhas da Ira|John Steinbeck|9788535933737|Record|2017|Romance|3
+A Leste do Éden|John Steinbeck|9788535910590|Record|2012|Romance|3
+Ratos e Homens|John Steinbeck|9788535924457|Record|2014|Romance|4
+Boêmios Errantes|John Steinbeck|9788535930219|Record|2015|Romance|2
+A Pérola|John Steinbeck|9788535932050|Record|2012|Romance|2
+O Inverno da Nossa Desconsolação|John Steinbeck|9788535933829|Record|2017|Romance|2
+Moby Dick|Herman Melville|9788535910682|Cosac Naify|2012|Romance|3
+Bartleby, o Escrivão|Herman Melville|9788535924549|Cosac Naify|2014|Contos|2
+Billy Budd|Herman Melville|9788535930301|Cosac Naify|2015|Romance|2

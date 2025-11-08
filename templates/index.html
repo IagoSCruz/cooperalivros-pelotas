@@ -1,0 +1,37 @@
+{% extends "base.html" %}
+
+{% block title %}Catálogo de Livros{% endblock %}
+
+{% block content %}
+<div class="page-header">
+    <h2>Catálogo de Livros</h2>
+    <div class="search-box">
+        <input type="text" id="search-input" placeholder="Buscar por título, autor ou ISBN...">
+        <button id="search-btn" class="btn btn-primary">Buscar</button>
+    </div>
+</div>
+
+<div class="filters">
+    <button class="btn btn-secondary" id="show-all">Todos</button>
+    <button class="btn btn-secondary" id="show-available">Disponíveis</button>
+</div>
+
+<div id="loading" class="loading">Carregando...</div>
+<div id="error-message" class="error-message" style="display: none;"></div>
+
+<div id="books-grid" class="books-grid">
+    <!-- Books will be loaded here dynamically -->
+</div>
+
+<!-- Modal for book details -->
+<div id="book-modal" class="modal">
+    <div class="modal-content">
+        <span class="close">&times;</span>
+        <div id="book-details"></div>
+    </div>
+</div>
+{% endblock %}
+
+{% block scripts %}
+<script src="/static/js/catalog.js"></script>
+{% endblock %}

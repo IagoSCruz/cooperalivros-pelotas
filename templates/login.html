@@ -1,0 +1,33 @@
+{% extends "base.html" %}
+
+{% block title %}Login{% endblock %}
+
+{% block content %}
+<div class="page-header">
+    <h2>Login</h2>
+</div>
+
+<div class="form-container" style="max-width: 400px; margin: 0 auto;">
+    <form id="login-form">
+        <div class="form-group">
+            <label for="username">Usuário</label>
+            <input type="text" id="username" name="username" required>
+        </div>
+
+        <div class="form-group">
+            <label for="password">Senha</label>
+            <input type="password" id="password" name="password" required>
+        </div>
+
+        <div class="form-actions">
+            <button type="submit" class="btn btn-primary" style="width: 100%;">Entrar</button>
+        </div>
+    </form>
+
+    <div id="login-message" class="form-message" style="display: none;"></div>
+</div>
+{% endblock %}
+
+{% block scripts %}
+<script src="/static/js/login.js"></script>
+{% endblock %}

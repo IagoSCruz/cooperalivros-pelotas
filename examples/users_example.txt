@@ -1,0 +1,6 @@
+full_name|email|phone|address|registration_number|is_active
+John Doe|john.doe@example.com|11987654321|Rua das Flores, 123|USR001|True
+Maria Silva|maria.silva@example.com|11876543210|Av. Paulista, 456|USR002|True
+Pedro Santos|pedro.santos@example.com|11765432109|Rua Augusta, 789|USR003|True
+Ana Costa|ana.costa@example.com|11654321098|Rua Oscar Freire, 321|USR004|False
+Carlos Oliveira|carlos.oliveira@example.com|11543210987|Av. Reboucas, 654|USR005|True

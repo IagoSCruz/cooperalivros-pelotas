@@ -1,0 +1,90 @@
+{% extends "base.html" %}
+
+{% block title %}Adicionar Livro{% endblock %}
+
+{% block content %}
+<div class="page-header">
+    <h2>Adicionar Novo Livro</h2>
+</div>
+
+<div class="form-container">
+    <form id="add-book-form" enctype="multipart/form-data">
+        <div class="form-group">
+            <label for="title">Título *</label>
+            <input type="text" id="title" name="title" required>
+        </div>
+
+        <div class="form-group">
+            <label for="author">Autor *</label>
+            <input type="text" id="author" name="author" required>
+        </div>
+
+        <div class="form-group">
+            <label for="isbn">ISBN *</label>
+            <input type="text" id="isbn" name="isbn" required pattern="[0-9]{10,13}"
+                   title="ISBN deve ter 10 ou 13 dígitos">
+        </div>
+
+        <div class="form-group">
+            <label for="publisher">Editora</label>
+            <input type="text" id="publisher" name="publisher">
+        </div>
+
+        <div class="form-group">
+            <label for="publication_year">Ano de Publicação</label>
+            <input type="number" id="publication_year" name="publication_year" min="1000" max="2100">
+        </div>
+
+        <div class="form-group">
+            <label for="category">Categoria</label>
+            <input type="text" id="category" name="category">
+        </div>
+
+        <div class="form-group">
+            <label for="quantity">Quantidade *</label>
+            <input type="number" id="quantity" name="quantity" min="1" value="1" required>
+        </div>
+
+        <div class="form-group">
+            <label for="cover_image">Imagem da Capa</label>
+            <input type="file" id="cover_image" name="cover_image" accept="image/*">
+            <div id="image-preview" class="image-preview"></div>
+        </div>
+
+        <div class="form-actions">
+            <button type="submit" class="btn btn-primary">Salvar Livro</button>
+            <a href="/" class="btn btn-secondary">Cancelar</a>
+        </div>
+    </form>
+
+    <div id="form-message" class="form-message" style="display: none;"></div>
+</div>
+
+<div class="form-container" style="margin-top: 40px;">
+    <h3>Importação em Massa</h3>
+    <form id="bulk-upload-form" enctype="multipart/form-data">
+        <div class="form-group">
+            <label for="file_type">Tipo de Arquivo</label>
+            <select id="file_type" name="file_type" required>
+                <option value="txt">TXT (delimitado por |)</option>
+                <option value="excel">Excel (.xlsx ou .xls)</option>
+            </select>
+        </div>
+
+        <div class="form-group">
+            <label for="bulk_file">Arquivo</label>
+            <input type="file" id="bulk_file" name="file" required>
+        </div>
+
+        <div class="form-actions">
+            <button type="submit" class="btn btn-primary">Importar Livros</button>
+        </div>
+    </form>
+
+    <div id="bulk-message" class="form-message" style="display: none;"></div>
+</div>
+{% endblock %}
+
+{% block scripts %}
+<script src="/static/js/add-book.js"></script>
+{% endblock %}

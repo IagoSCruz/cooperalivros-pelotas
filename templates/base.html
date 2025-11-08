@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{% block title %}Sistema de Gestão Bibliotecária{% endblock %}</title>
+    <link rel="stylesheet" href="/static/css/style.css">
+</head>
+<body>
+    <nav class="navbar">
+        <div class="container">
+            <div class="nav-brand">
+                <h1>Biblioteca PEL</h1>
+            </div>
+            <ul class="nav-menu">
+                <li><a href="/" class="nav-link">Catálogo</a></li>
+                <li><a href="/add-book" class="nav-link">Adicionar Livro</a></li>
+                <li><a href="/loans" class="nav-link">Empréstimos</a></li>
+                <li id="auth-section">
+                    <a href="/login" class="nav-link" id="login-link">Login</a>
+                    <button id="logout-btn" class="btn-link" style="display: none;">Sair</button>
+                </li>
+            </ul>
+        </div>
+    </nav>
+
+    <main class="container main-content">
+        {% block content %}{% endblock %}
+    </main>
+
+    <footer class="footer">
+        <div class="container">
+            <p>&copy; 2025 Sistema de Gestão Bibliotecária - PEL</p>
+        </div>
+    </footer>
+
+    <script src="/static/js/auth.js"></script>
+    {% block scripts %}{% endblock %}
+</body>
+</html>

@@ -1,0 +1,677 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Diagrama de Arquitetura - Sistema de Gestão Bibliotecária (Livros PEL)</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            padding: 20px;
+            min-height: 100vh;
+        }
+
+        .container {
+            max-width: 1400px;
+            margin: 0 auto;
+            background: white;
+            border-radius: 10px;
+            box-shadow: 0 20px 60px rgba(0,0,0,0.3);
+            padding: 30px;
+        }
+
+        h1 {
+            text-align: center;
+            color: #2c3e50;
+            margin-bottom: 10px;
+            font-size: 28px;
+        }
+
+        .subtitle {
+            text-align: center;
+            color: #7f8c8d;
+            margin-bottom: 30px;
+            font-size: 14px;
+        }
+
+        .legend {
+            display: flex;
+            justify-content: center;
+            gap: 20px;
+            margin-bottom: 30px;
+            flex-wrap: wrap;
+        }
+
+        .legend-item {
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            font-size: 12px;
+        }
+
+        .legend-color {
+            width: 20px;
+            height: 20px;
+            border-radius: 4px;
+        }
+
+        .diagram {
+            display: flex;
+            flex-direction: column;
+            gap: 20px;
+        }
+
+        .layer {
+            border-radius: 8px;
+            padding: 20px;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+            position: relative;
+        }
+
+        .layer-title {
+            font-weight: bold;
+            font-size: 16px;
+            margin-bottom: 15px;
+            padding-bottom: 10px;
+            border-bottom: 2px solid rgba(255,255,255,0.3);
+            color: white;
+        }
+
+        .components {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 15px;
+        }
+
+        .component {
+            background: rgba(255,255,255,0.95);
+            padding: 15px;
+            border-radius: 6px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+            transition: transform 0.2s, box-shadow 0.2s;
+            cursor: pointer;
+        }
+
+        .component:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+        }
+
+        .component-title {
+            font-weight: bold;
+            color: #2c3e50;
+            margin-bottom: 8px;
+            font-size: 14px;
+        }
+
+        .component-detail {
+            font-size: 12px;
+            color: #7f8c8d;
+            line-height: 1.5;
+        }
+
+        .component-detail ul {
+            margin-left: 15px;
+            margin-top: 5px;
+        }
+
+        .component-detail li {
+            margin-bottom: 3px;
+        }
+
+        /* Layer Colors */
+        .presentation-layer {
+            background: linear-gradient(135deg, #3498db, #2980b9);
+        }
+
+        .application-layer {
+            background: linear-gradient(135deg, #2ecc71, #27ae60);
+        }
+
+        .security-layer {
+            background: linear-gradient(135deg, #e74c3c, #c0392b);
+        }
+
+        .persistence-layer {
+            background: linear-gradient(135deg, #f39c12, #d68910);
+        }
+
+        .processing-layer {
+            background: linear-gradient(135deg, #9b59b6, #8e44ad);
+        }
+
+        .integration-layer {
+            background: linear-gradient(135deg, #1abc9c, #16a085);
+        }
+
+        /* Flow Arrows */
+        .flow-section {
+            margin-top: 30px;
+            padding: 20px;
+            background: #f8f9fa;
+            border-radius: 8px;
+        }
+
+        .flow-title {
+            font-weight: bold;
+            color: #2c3e50;
+            margin-bottom: 15px;
+            font-size: 16px;
+        }
+
+        .flow-item {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            margin-bottom: 10px;
+            font-size: 13px;
+            color: #34495e;
+        }
+
+        .arrow {
+            color: #3498db;
+            font-weight: bold;
+        }
+
+        .badge {
+            display: inline-block;
+            padding: 2px 8px;
+            border-radius: 3px;
+            font-size: 11px;
+            font-weight: bold;
+            margin-left: 5px;
+        }
+
+        .badge-pattern {
+            background: #e8f5e9;
+            color: #2e7d32;
+        }
+
+        .badge-api {
+            background: #e3f2fd;
+            color: #1565c0;
+        }
+
+        .badge-db {
+            background: #fff3e0;
+            color: #e65100;
+        }
+
+        .relationships {
+            margin-top: 20px;
+            padding: 15px;
+            background: #fff9e6;
+            border-radius: 8px;
+            border-left: 4px solid #f39c12;
+        }
+
+        .relationships-title {
+            font-weight: bold;
+            color: #2c3e50;
+            margin-bottom: 10px;
+        }
+
+        .relationship-item {
+            font-size: 13px;
+            color: #34495e;
+            margin-bottom: 8px;
+            padding-left: 15px;
+            position: relative;
+        }
+
+        .relationship-item:before {
+            content: "→";
+            position: absolute;
+            left: 0;
+            color: #f39c12;
+            font-weight: bold;
+        }
+
+        @media print {
+            body {
+                background: white;
+                padding: 0;
+            }
+            .container {
+                box-shadow: none;
+            }
+        }
+
+        .tech-stack {
+            margin-top: 30px;
+            padding: 20px;
+            background: #ecf0f1;
+            border-radius: 8px;
+        }
+
+        .tech-stack-title {
+            font-weight: bold;
+            color: #2c3e50;
+            margin-bottom: 15px;
+            font-size: 16px;
+        }
+
+        .tech-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 10px;
+        }
+
+        .tech-item {
+            background: white;
+            padding: 10px;
+            border-radius: 4px;
+            font-size: 12px;
+            color: #34495e;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+
+        .tech-item strong {
+            color: #2c3e50;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Sistema de Gestão Bibliotecária (Livros PEL)</h1>
+        <div class="subtitle">Diagrama de Arquitetura - Padrões MVC/MVT + Repository Pattern + API REST</div>
+
+        <div class="legend">
+            <div class="legend-item">
+                <div class="legend-color" style="background: linear-gradient(135deg, #3498db, #2980b9);"></div>
+                <span>Camada de Apresentação</span>
+            </div>
+            <div class="legend-item">
+                <div class="legend-color" style="background: linear-gradient(135deg, #2ecc71, #27ae60);"></div>
+                <span>Camada de Aplicação</span>
+            </div>
+            <div class="legend-item">
+                <div class="legend-color" style="background: linear-gradient(135deg, #e74c3c, #c0392b);"></div>
+                <span>Camada de Segurança</span>
+            </div>
+            <div class="legend-item">
+                <div class="legend-color" style="background: linear-gradient(135deg, #f39c12, #d68910);"></div>
+                <span>Camada de Persistência</span>
+            </div>
+            <div class="legend-item">
+                <div class="legend-color" style="background: linear-gradient(135deg, #9b59b6, #8e44ad);"></div>
+                <span>Camada de Processamento</span>
+            </div>
+            <div class="legend-item">
+                <div class="legend-color" style="background: linear-gradient(135deg, #1abc9c, #16a085);"></div>
+                <span>Integrações Externas</span>
+            </div>
+        </div>
+
+        <div class="diagram">
+            <!-- Presentation Layer -->
+            <div class="layer presentation-layer">
+                <div class="layer-title">CAMADA DE APRESENTAÇÃO</div>
+                <div class="components">
+                    <div class="component">
+                        <div class="component-title">Frontend Web (Templates Django)</div>
+                        <div class="component-detail">
+                            <ul>
+                                <li>base.html - Template base</li>
+                                <li>index.html - Dashboard</li>
+                                <li>add_book.html - Cadastro</li>
+                                <li>login.html - Autenticação</li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="component">
+                        <div class="component-title">API REST (Django REST Framework)</div>
+                        <div class="component-detail">
+                            <ul>
+                                <li>GET/POST /api/books/</li>
+                                <li>GET/POST /api/users/</li>
+                                <li>GET/POST /api/loans/</li>
+                                <li>POST /api/auth/token/</li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="component">
+                        <div class="component-title">Documentação Interativa</div>
+                        <div class="component-detail">
+                            <ul>
+                                <li>Swagger UI (/api/docs/)</li>
+                                <li>ReDoc (/api/redoc/)</li>
+                                <li>OpenAPI 3.0 Schema</li>
+                                <li>drf-spectacular</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Application Layer -->
+            <div class="layer application-layer">
+                <div class="layer-title">CAMADA DE APLICAÇÃO (Django Apps)</div>
+                <div class="components">
+                    <div class="component">
+                        <div class="component-title">Books App <span class="badge badge-pattern">Repository Pattern</span></div>
+                        <div class="component-detail">
+                            <ul>
+                                <li><strong>BookViewSet:</strong> CRUD + bulk_upload + available</li>
+                                <li><strong>BookRepository:</strong> Abstração de dados</li>
+                                <li><strong>BookFileProcessor:</strong> TXT/Excel</li>
+                                <li><strong>Model:</strong> Book (title, author, isbn, quantity)</li>
+                                <li><strong>Serializers:</strong> BookSerializer, BookListSerializer</li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="component">
+                        <div class="component-title">Users App <span class="badge badge-pattern">Repository Pattern</span></div>
+                        <div class="component-detail">
+                            <ul>
+                                <li><strong>LibraryUserViewSet:</strong> CRUD + bulk_upload + active</li>
+                                <li><strong>LibraryUserRepository:</strong> Abstração de dados</li>
+                                <li><strong>UserFileProcessor:</strong> TXT/Excel</li>
+                                <li><strong>Model:</strong> LibraryUser (full_name, email, registration_number)</li>
+                                <li><strong>Serializers:</strong> LibraryUserSerializer</li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="component">
+                        <div class="component-title">Loans App <span class="badge badge-pattern">Repository Pattern</span></div>
+                        <div class="component-detail">
+                            <ul>
+                                <li><strong>LoanViewSet:</strong> CRUD + active + overdue + return_loan</li>
+                                <li><strong>LoanRepository:</strong> Abstração de dados</li>
+                                <li><strong>Model:</strong> Loan (book_FK, user_FK, dates, status)</li>
+                                <li><strong>Methods:</strong> mark_as_returned(), is_overdue()</li>
+                                <li><strong>Serializers:</strong> LoanSerializer</li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="component">
+                        <div class="component-title">Frontend App</div>
+                        <div class="component-detail">
+                            <ul>
+                                <li><strong>Views:</strong> Renderização de templates</li>
+                                <li><strong>Forms:</strong> Formulários HTML</li>
+                                <li><strong>Static:</strong> CSS/JS locais</li>
+                                <li><strong>Integration:</strong> Consumo da API REST</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Security Layer -->
+            <div class="layer security-layer">
+                <div class="layer-title">CAMADA DE SEGURANÇA E MIDDLEWARE</div>
+                <div class="components">
+                    <div class="component">
+                        <div class="component-title">JWT Authentication</div>
+                        <div class="component-detail">
+                            <ul>
+                                <li>djangorestframework-simplejwt</li>
+                                <li>Access Token (1h)</li>
+                                <li>Refresh Token (7 dias)</li>
+                                <li>Token Rotation</li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="component">
+                        <div class="component-title">CORS & CSRF Protection</div>
+                        <div class="component-detail">
+                            <ul>
+                                <li>django-cors-headers</li>
+                                <li>CSRF Middleware</li>
+                                <li>Origens configuráveis</li>
+                                <li>Secure cookies</li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="component">
+                        <div class="component-title">Session & Permissions</div>
+                        <div class="component-detail">
+                            <ul>
+                                <li>SessionAuthentication</li>
+                                <li>IsAuthenticatedOrReadOnly</li>
+                                <li>Custom Permissions</li>
+                                <li>Django Auth</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Processing Layer -->
+            <div class="layer processing-layer">
+                <div class="layer-title">CAMADA DE PROCESSAMENTO</div>
+                <div class="components">
+                    <div class="component">
+                        <div class="component-title">File Processors</div>
+                        <div class="component-detail">
+                            <ul>
+                                <li><strong>BookFileProcessor:</strong> TXT/Excel → Models</li>
+                                <li><strong>UserFileProcessor:</strong> TXT/Excel → Models</li>
+                                <li><strong>Validations:</strong> Data integrity</li>
+                                <li><strong>Bulk Operations:</strong> Batch create</li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="component">
+                        <div class="component-title">Data Processing</div>
+                        <div class="component-detail">
+                            <ul>
+                                <li><strong>Pandas:</strong> DataFrame manipulation</li>
+                                <li><strong>Openpyxl:</strong> Excel processing</li>
+                                <li><strong>CSV:</strong> Text file parsing</li>
+                                <li><strong>Validation:</strong> Schema enforcement</li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="component">
+                        <div class="component-title">Image Processing</div>
+                        <div class="component-detail">
+                            <ul>
+                                <li><strong>Pillow:</strong> Image handling</li>
+                                <li><strong>Cover Upload:</strong> Book covers</li>
+                                <li><strong>Resize:</strong> Optimization</li>
+                                <li><strong>Storage:</strong> /media/books/covers/</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Persistence Layer -->
+            <div class="layer persistence-layer">
+                <div class="layer-title">CAMADA DE PERSISTÊNCIA <span class="badge badge-db">ORM</span></div>
+                <div class="components">
+                    <div class="component">
+                        <div class="component-title">Django ORM</div>
+                        <div class="component-detail">
+                            <ul>
+                                <li><strong>QuerySets:</strong> Lazy evaluation</li>
+                                <li><strong>Migrations:</strong> Schema versioning</li>
+                                <li><strong>Indexes:</strong> Performance optimization</li>
+                                <li><strong>Relationships:</strong> ForeignKey, ManyToMany</li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="component">
+                        <div class="component-title">SQLite (Development)</div>
+                        <div class="component-detail">
+                            <ul>
+                                <li><strong>File:</strong> db.sqlite3</li>
+                                <li><strong>Usage:</strong> Local development</li>
+                                <li><strong>Benefits:</strong> Zero config</li>
+                                <li><strong>Limitations:</strong> Single connection</li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="component">
+                        <div class="component-title">PostgreSQL (Production)</div>
+                        <div class="component-detail">
+                            <ul>
+                                <li><strong>Driver:</strong> psycopg[binary]</li>
+                                <li><strong>Features:</strong> ACID compliance</li>
+                                <li><strong>Scalability:</strong> High concurrent users</li>
+                                <li><strong>Advanced:</strong> Full-text search</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Integration Layer -->
+            <div class="layer integration-layer">
+                <div class="layer-title">INTEGRAÇÕES EXTERNAS</div>
+                <div class="components">
+                    <div class="component">
+                        <div class="component-title">File Uploads</div>
+                        <div class="component-detail">
+                            <ul>
+                                <li><strong>TXT:</strong> Pipe-delimited format</li>
+                                <li><strong>Excel:</strong> .xlsx / .xls</li>
+                                <li><strong>Images:</strong> PNG, JPEG for covers</li>
+                                <li><strong>Max Size:</strong> 10MB per file</li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="component">
+                        <div class="component-title">Media Storage</div>
+                        <div class="component-detail">
+                            <ul>
+                                <li><strong>Path:</strong> /media/books/covers/</li>
+                                <li><strong>URL:</strong> /media/ serving</li>
+                                <li><strong>Organization:</strong> By book ID</li>
+                                <li><strong>Future:</strong> S3 / Cloud storage</li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="component">
+                        <div class="component-title">Future Integrations</div>
+                        <div class="component-detail">
+                            <ul>
+                                <li><strong>Email:</strong> Notifications service</li>
+                                <li><strong>SMS:</strong> Overdue alerts</li>
+                                <li><strong>ISBN API:</strong> Book metadata</li>
+                                <li><strong>Payment:</strong> Fine processing</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Data Flows -->
+        <div class="flow-section">
+            <div class="flow-title">FLUXOS PRINCIPAIS DE DADOS</div>
+
+            <div class="flow-item">
+                <span class="arrow">→</span>
+                <strong>API Request Flow:</strong> Cliente → API Endpoint → ViewSet → Repository → Model → Django ORM → Database
+            </div>
+
+            <div class="flow-item">
+                <span class="arrow">→</span>
+                <strong>Bulk Upload Flow:</strong> Cliente → Upload File → FileProcessor → Validation → Bulk Create → Database
+            </div>
+
+            <div class="flow-item">
+                <span class="arrow">→</span>
+                <strong>Loan Creation:</strong> POST /api/loans/ → LoanViewSet.create() → Book.reserve_copy() → Update available_quantity → Save Loan
+            </div>
+
+            <div class="flow-item">
+                <span class="arrow">→</span>
+                <strong>Loan Return:</strong> POST /api/loans/{id}/return_loan/ → Loan.mark_as_returned() → Book.return_copy() → Update available_quantity
+            </div>
+
+            <div class="flow-item">
+                <span class="arrow">→</span>
+                <strong>Authentication:</strong> POST /api/auth/token/ → Validate credentials → Generate JWT → Return access + refresh tokens
+            </div>
+
+            <div class="flow-item">
+                <span class="arrow">→</span>
+                <strong>Search Flow:</strong> GET /api/books/?search=query → ViewSet.filter_queryset() → Repository → Database Query → Paginated Response
+            </div>
+        </div>
+
+        <!-- Relationships -->
+        <div class="relationships">
+            <div class="relationships-title">RELACIONAMENTOS DO BANCO DE DADOS</div>
+            <div class="relationship-item">
+                <strong>Loan.book</strong> → Book (ForeignKey, on_delete=PROTECT) - Um empréstimo pertence a um livro
+            </div>
+            <div class="relationship-item">
+                <strong>Loan.user</strong> → LibraryUser (ForeignKey, on_delete=PROTECT) - Um empréstimo pertence a um usuário
+            </div>
+            <div class="relationship-item">
+                <strong>Book.loans</strong> (reverse relation) - Um livro pode ter múltiplos empréstimos ao longo do tempo
+            </div>
+            <div class="relationship-item">
+                <strong>LibraryUser.loans</strong> (reverse relation) - Um usuário pode ter múltiplos empréstimos ao longo do tempo
+            </div>
+            <div class="relationship-item">
+                <strong>PROTECT:</strong> Impede exclusão de livros/usuários com empréstimos ativos
+            </div>
+        </div>
+
+        <!-- Tech Stack -->
+        <div class="tech-stack">
+            <div class="tech-stack-title">STACK TECNOLÓGICA</div>
+            <div class="tech-grid">
+                <div class="tech-item"><strong>Backend:</strong> Django 5.2.7 (Python 3.14+)</div>
+                <div class="tech-item"><strong>API:</strong> Django REST Framework 3.16.1</div>
+                <div class="tech-item"><strong>Auth:</strong> djangorestframework-simplejwt 5.5.1</div>
+                <div class="tech-item"><strong>Docs:</strong> drf-spectacular 0.29.0</div>
+                <div class="tech-item"><strong>CORS:</strong> django-cors-headers 4.9.0</div>
+                <div class="tech-item"><strong>Server:</strong> Gunicorn 23.0.0</div>
+                <div class="tech-item"><strong>Database:</strong> PostgreSQL (psycopg 3.2.12)</div>
+                <div class="tech-item"><strong>Data:</strong> Pandas 2.3.3, Openpyxl 3.1.5</div>
+                <div class="tech-item"><strong>Images:</strong> Pillow 12.0.0</div>
+                <div class="tech-item"><strong>Testing:</strong> Pytest 8.4.2, pytest-django 4.11.1</div>
+                <div class="tech-item"><strong>Quality:</strong> Ruff 0.14.3 (linter + formatter)</div>
+                <div class="tech-item"><strong>Package:</strong> Poetry 2.0+</div>
+                <div class="tech-item"><strong>Container:</strong> Docker & Docker Compose</div>
+                <div class="tech-item"><strong>CI/CD:</strong> GitHub Actions</div>
+                <div class="tech-item"><strong>Config:</strong> python-decouple 3.8</div>
+                <div class="tech-item"><strong>Tasks:</strong> Taskipy 1.14.1</div>
+            </div>
+        </div>
+
+        <!-- Patterns -->
+        <div class="flow-section" style="margin-top: 20px;">
+            <div class="flow-title">PADRÕES DE ARQUITETURA IMPLEMENTADOS</div>
+            <div class="flow-item">
+                <span class="arrow">✓</span>
+                <strong>Repository Pattern:</strong> Abstração da camada de dados para facilitar migração TXT → Database
+            </div>
+            <div class="flow-item">
+                <span class="arrow">✓</span>
+                <strong>ViewSet Pattern:</strong> DRF para operações CRUD padronizadas
+            </div>
+            <div class="flow-item">
+                <span class="arrow">✓</span>
+                <strong>Service Layer:</strong> FileProcessors encapsulam lógica de processamento
+            </div>
+            <div class="flow-item">
+                <span class="arrow">✓</span>
+                <strong>MVC/MVT:</strong> Model-View-Template (Django standard)
+            </div>
+            <div class="flow-item">
+                <span class="arrow">✓</span>
+                <strong>Serializer Pattern:</strong> Validação e transformação de dados API
+            </div>
+            <div class="flow-item">
+                <span class="arrow">✓</span>
+                <strong>Authentication Pattern:</strong> JWT token-based authentication
+            </div>
+        </div>
+    </div>
+</body>
+</html>
